@@ -30,7 +30,9 @@ I am maintaining this repository to track my Data Structures and Algorithms prac
 | No. | Problem | Difficulty | Language | Topic |
 |---|---|---|---|---|
 | 175 | Combine Two Tables | Easy | SQL | Database |
-| 176 | Second Highest Salary | Easy | SQL | Database |
+| 176 | Second Highest Salary | Medium | SQL | Database |
+| 182 | Duplicate Emails | Easy | SQL | Database |
+| 183 | Customers Who Never Order | Easy | SQL | Database |
 
 ## Note
 
