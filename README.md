@@ -33,6 +33,8 @@ I am maintaining this repository to track my Data Structures and Algorithms prac
 | 176 | Second Highest Salary | Medium | SQL | Database |
 | 182 | Duplicate Emails | Easy | SQL | Database |
 | 183 | Customers Who Never Order | Easy | SQL | Database |
+| 196 | Delete Duplicate Emails | Easy | SQL | Database |
+| 511 | Game Play Analysis I | Easy | SQL | Database |
 
 ## Note
 
