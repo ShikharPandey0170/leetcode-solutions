@@ -35,6 +35,8 @@ I am maintaining this repository to track my Data Structures and Algorithms prac
 | 183 | Customers Who Never Order | Easy | SQL | Database |
 | 196 | Delete Duplicate Emails | Easy | SQL | Database |
 | 511 | Game Play Analysis I | Easy | SQL | Database |
+| 584 | Find Customer Referee | Easy | SQL | Database |
+| 595 | Big Countries | Easy | SQL | Database |
 
 ## Note
 
