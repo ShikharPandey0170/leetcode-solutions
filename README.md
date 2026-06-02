@@ -37,6 +37,8 @@ I am maintaining this repository to track my Data Structures and Algorithms prac
 | 511 | Game Play Analysis I | Easy | SQL | Database |
 | 584 | Find Customer Referee | Easy | SQL | Database |
 | 595 | Big Countries | Easy | SQL | Database |
+| 596 | Classes With at Least 5 Students | Easy | SQL | Database |
+| 607 | Sales Person | Easy | SQL | Database |
 
 ## Note
 
