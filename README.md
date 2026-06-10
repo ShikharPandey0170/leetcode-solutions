@@ -41,10 +41,13 @@ I am maintaining this repository to track my Data Structures and Algorithms prac
 | 596 | Classes With at Least 5 Students | Easy | SQL | Database |
 | 607 | Sales Person | Easy | SQL | Database |
 | 608 | Tree Node | Medium | SQL | Database |
+| 771 | Jewels and Stones | Easy | C++ | String |
 | 1920 | Build Array from Permutation | Easy | C++ | Array |
 | 2413 | Smallest Even Multiple | Easy | C++ | Math |
 | 2469 | Convert the Temperature | Easy | C++ | Math |
 | 2769 | Find the Maximum Achievable Numebr | Easy | C++ | Math |
+| 2942 | Find Words Containing Character | Easy | C++ | String |
+| 3110 | Score of a String | Easy | C++ | String |
 
 
 ## Note
