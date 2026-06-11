@@ -42,7 +42,10 @@ I am maintaining this repository to track my Data Structures and Algorithms prac
 | 607 | Sales Person | Easy | SQL | Database |
 | 608 | Tree Node | Medium | SQL | Database |
 | 771 | Jewels and Stones | Easy | C++ | String |
+| 1108 | Defanging an IP Address | Easy | C++ | String |
+| 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | C++ | Array |
 | 1920 | Build Array from Permutation | Easy | C++ | Array |
+| 2114 | Maximum Number of Words Found in Sentences | Easy | C++ | Array |
 | 2413 | Smallest Even Multiple | Easy | C++ | Math |
 | 2469 | Convert the Temperature | Easy | C++ | Math |
 | 2769 | Find the Maximum Achievable Numebr | Easy | C++ | Math |
