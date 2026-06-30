@@ -49,6 +49,9 @@ I am maintaining this repository to track my Data Structures and Algorithms prac
 | 2413 | Smallest Even Multiple | Easy | C++ | Math |
 | 2469 | Convert the Temperature | Easy | C++ | Math |
 | 2769 | Find the Maximum Achievable Numebr | Easy | C++ | Math |
+| 2877 | Create a DataFrame from list | Easy | Python | pandas |
+| 2878 | Get the Size of a DataFrame | Easy | Python | pandas |
+| 2879 | Display the First Three Rows | Easy | Python | pandas |
 | 2942 | Find Words Containing Character | Easy | C++ | String |
 | 3110 | Score of a String | Easy | C++ | String |
 
