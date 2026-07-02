@@ -1,0 +1,19 @@
+// LeetCode 0344: Reverse String
+// Difficulty: Easy
+// Topic: String
+// Link: https://leetcode.com/problems/reverse-string/description/
+
+class Solution {
+public:
+    void reverseString(vector<char>& s) {
+        int left = 0;
+        int right = s.size()-1;
+        while(left<right){
+            char temp = s[left];
+            s[left] = s[right];
+            s[right] = temp;
+            left++;
+            right--;
+        }
+    }
+};
