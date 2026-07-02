@@ -34,6 +34,8 @@ I am maintaining this repository to track my Data Structures and Algorithms prac
 | 182 | Duplicate Emails | Easy | SQL | Database |
 | 183 | Customers Who Never Order | Easy | SQL | Database |
 | 196 | Delete Duplicate Emails | Easy | SQL | Database |
+| 344 | Reverse String | Easy | C++ | Two Pointers |
+| 412 | Fizz Buzz | Easy | C++ | String |
 | 511 | Game Play Analysis I | Easy | SQL | Database |
 | 584 | Find Customer Referee | Easy | SQL | Database |
 | 586 | Customer Placing the Largest Number of Orders | Easy | SQL | Database |
@@ -46,6 +48,7 @@ I am maintaining this repository to track my Data Structures and Algorithms prac
 | 1365 | How Many Numbers Are Smaller Than the Current Number | Easy | C++ | Array |
 | 1920 | Build Array from Permutation | Easy | C++ | Array |
 | 2114 | Maximum Number of Words Found in Sentences | Easy | C++ | Array |
+| 2235 | Add Two Integers | Easy | C++ | Math |
 | 2413 | Smallest Even Multiple | Easy | C++ | Math |
 | 2469 | Convert the Temperature | Easy | C++ | Math |
 | 2769 | Find the Maximum Achievable Numebr | Easy | C++ | Math |
