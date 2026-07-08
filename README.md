@@ -58,6 +58,12 @@ I am maintaining this repository to track my Data Structures and Algorithms prac
 | 2879 | Display the First Three Rows | Easy | Python | pandas |
 | 2880 | Select Data | Easy | Python | pandas |
 | 2881 | Create a New Column | Python | pandas |
+| 2882 | Drop Duplicate Rows | Python | pandas |
+| 2883 | Drop Duplicate Data | Python | pandas |
+| 2884 | Modify Columns | Python | pandas |
+| 2885 | Rename Columns | Python | pandas |
+| 2886 | Change Data Type | Python | pandas |
+| 2887 | Fill Missing Data | Python | pandas |
 | 2942 | Find Words Containing Character | Easy | C++ | String |
 | 3110 | Score of a String | Easy | C++ | String |
 
