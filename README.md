@@ -29,6 +29,7 @@ I am maintaining this repository to track my Data Structures and Algorithms prac
 
 | No. | Problem | Difficulty | Language | Topic |
 |---|---|---|---|---|
+| 43 | Multiply Strings | Medium | Python | Math |
 | 50 | Powx N | Medium | Python | Math |
 | 70 | Climbing Stairs | Easy | C++ | Math |
 | 175 | Combine Two Tables | Easy | SQL | Database |
@@ -80,8 +81,6 @@ I am maintaining this repository to track my Data Structures and Algorithms prac
 | 2891 | Method Chaining | Easy | Python | pandas |
 | 2942 | Find Words Containing Character | Easy | C++ | String |
 | 3110 | Score of a String | Easy | C++ | String |
-| 0176 | Second Highest Salary | Medium | SQL | Database |
-| 0043 | Multiply Strings | Medium | Python | Math |
 
 ## Note
 
