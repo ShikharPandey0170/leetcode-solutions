@@ -35,6 +35,7 @@ I am maintaining this repository to track my Data Structures and Algorithms prac
 | 182 | Duplicate Emails | Easy | SQL | Database |
 | 183 | Customers Who Never Order | Easy | SQL | Database |
 | 196 | Delete Duplicate Emails | Easy | SQL | Database |
+| 238 | Product Of Array Except Self | Medium | C++ | Array |
 | 344 | Reverse String | Easy | C++ | Two Pointers |
 | 412 | Fizz Buzz | Easy | C++ | String |
 | 511 | Game Play Analysis I | Easy | SQL | Database |
@@ -82,32 +83,3 @@ I am maintaining this repository to track my Data Structures and Algorithms prac
 ## Note
 
 These are my personal solutions for learning and revision.
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-|  |
-| ------- |
-| [0007-reverse-integer](https://github.com/ShikharPandey0170/leetcode-solutions/tree/master/0007-reverse-integer) |
-| [0043-multiply-strings](https://github.com/ShikharPandey0170/leetcode-solutions/tree/master/0043-multiply-strings) |
-## String
-|  |
-| ------- |
-| [0043-multiply-strings](https://github.com/ShikharPandey0170/leetcode-solutions/tree/master/0043-multiply-strings) |
-## Simulation
-|  |
-| ------- |
-| [0043-multiply-strings](https://github.com/ShikharPandey0170/leetcode-solutions/tree/master/0043-multiply-strings) |
-## Array
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/ShikharPandey0170/leetcode-solutions/tree/master/0075-sort-colors) |
-## Two Pointers
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/ShikharPandey0170/leetcode-solutions/tree/master/0075-sort-colors) |
-## Sorting
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/ShikharPandey0170/leetcode-solutions/tree/master/0075-sort-colors) |
-<!---LeetCode Topics End-->
-| 0238 | Product Of Array Except Self | Easy | C++ | Array |
