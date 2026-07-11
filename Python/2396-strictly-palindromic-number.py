@@ -1,5 +1,5 @@
 # LeetCode 2396: Strictly Palindromic Number
-# Difficulty: Easy
+# Difficulty: Medium
 # Topic: Math
 # Link: https://leetcode.com/problems/strictly-palindromic-number/description/
 
