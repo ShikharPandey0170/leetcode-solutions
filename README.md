@@ -29,6 +29,7 @@ I am maintaining this repository to track my Data Structures and Algorithms prac
 
 | No. | Problem | Difficulty | Language | Topic |
 |---|---|---|---|---|
+| 50 | Powx N | Medium | Python | Math |
 | 70 | Climbing Stairs | Easy | C++ | Math |
 | 175 | Combine Two Tables | Easy | SQL | Database |
 | 176 | Second Highest Salary | Medium | SQL | Database |
@@ -58,6 +59,7 @@ I am maintaining this repository to track my Data Structures and Algorithms prac
 | 1920 | Build Array from Permutation | Easy | C++ | Array |
 | 2114 | Maximum Number of Words Found in Sentences | Easy | C++ | Array |
 | 2235 | Add Two Integers | Easy | C++ | Math |
+| 2396 | Strictly Palindromic Number | Easy | Python | Math |
 | 2413 | Smallest Even Multiple | Easy | C++ | Math |
 | 2469 | Convert the Temperature | Easy | C++ | Math |
 | 2769 | Find the Maximum Achievable Numebr | Easy | C++ | Math |
@@ -78,7 +80,6 @@ I am maintaining this repository to track my Data Structures and Algorithms prac
 | 2891 | Method Chaining | Easy | Python | pandas |
 | 2942 | Find Words Containing Character | Easy | C++ | String |
 | 3110 | Score of a String | Easy | C++ | String |
-| 2396 | Strictly Palindromic Number | Easy | Python | Math |
 
 ## Note
 
