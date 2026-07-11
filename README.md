@@ -82,3 +82,10 @@ I am maintaining this repository to track my Data Structures and Algorithms prac
 ## Note
 
 These are my personal solutions for learning and revision.
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [1068-product-sales-analysis-i](https://github.com/ShikharPandey0170/leetcode-solutions/tree/master/1068-product-sales-analysis-i) |
+<!---LeetCode Topics End-->
