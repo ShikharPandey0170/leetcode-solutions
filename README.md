@@ -81,6 +81,7 @@ I am maintaining this repository to track my Data Structures and Algorithms prac
 | 2942 | Find Words Containing Character | Easy | C++ | String |
 | 3110 | Score of a String | Easy | C++ | String |
 | 0176 | Second Highest Salary | Medium | SQL | Database |
+| 0043 | Multiply Strings | Medium | Python | Math |
 
 ## Note
 
