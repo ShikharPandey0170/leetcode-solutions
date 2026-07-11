@@ -78,7 +78,7 @@ I am maintaining this repository to track my Data Structures and Algorithms prac
 | 2891 | Method Chaining | Easy | Python | pandas |
 | 2942 | Find Words Containing Character | Easy | C++ | String |
 | 3110 | Score of a String | Easy | C++ | String |
-
+| 2396 | Strictly Palindromic Number | Easy | Python | Math |
 
 ## Note
 
