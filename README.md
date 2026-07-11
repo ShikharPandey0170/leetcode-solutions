@@ -88,4 +88,13 @@ These are my personal solutions for learning and revision.
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ShikharPandey0170/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0043-multiply-strings](https://github.com/ShikharPandey0170/leetcode-solutions/tree/master/0043-multiply-strings) |
+## String
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/ShikharPandey0170/leetcode-solutions/tree/master/0043-multiply-strings) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/ShikharPandey0170/leetcode-solutions/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
