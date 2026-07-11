@@ -97,4 +97,16 @@ These are my personal solutions for learning and revision.
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/ShikharPandey0170/leetcode-solutions/tree/master/0043-multiply-strings) |
+## Array
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ShikharPandey0170/leetcode-solutions/tree/master/0075-sort-colors) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ShikharPandey0170/leetcode-solutions/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/ShikharPandey0170/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
