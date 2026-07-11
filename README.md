@@ -82,3 +82,10 @@ I am maintaining this repository to track my Data Structures and Algorithms prac
 ## Note
 
 These are my personal solutions for learning and revision.
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/ShikharPandey0170/leetcode-solutions/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
